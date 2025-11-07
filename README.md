@@ -1,4 +1,4 @@
-# My Arduino Project
+# Omnidirectional Smart Car Project - MicroBots Hackathon
 
 ## Overview
 This project uses a CodeCell (runs on ESP32-C3) to run a mechanum-driven mini robot buddy. It features a web interface that allows users to control a device via joystick inputs. The buddy also has emotions based on various variables/environmental disturbances such as shaking.
